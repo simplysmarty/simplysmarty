@@ -1,4 +1,4 @@
-# Hey, I'm Anuoluwapo Fasanya 👋
+# Hey, I'm Segun Fasanya 👋
 
 > *"Data doesn't lie — but it does hide. My job is to find what it's hiding."*
 
