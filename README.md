@@ -1,23 +1,62 @@
-# Segun Fasanya – Data Analyst Portfolio
+# Hey, I'm Anuoluwapo Fasanya 👋
 
-Welcome to my data analysis portfolio.
+> *"Data doesn't lie — but it does hide. My job is to find what it's hiding."*
 
-I am currently building skills in:
+I'm an aspiring Data Analyst documenting my journey from zero to job-ready — one dataset at a time.
 
-• Excel  
-• SQL  
-• Power BI  
-• Python  
-• Data Cleaning  
-• Data Visualization  
+Currently building my portfolio through real-world projects, sharing every step publicly on LinkedIn and X, and learning Power BI at TS Academy.
 
-This repository will contain my projects as I learn and grow.
+I don't just clean data and build dashboards. I ask the questions that turn numbers into decisions.
 
-## Current Projects
-- Excel Data Cleaning Project (Coming soon)
-- Sales Analysis Dashboard (Coming soon)
+---
 
-## Goal
-To become a professional data analyst and work remotely.
+## 🛠️ Tools & Skills
 
-Connect with me on LinkedIn (https://www.linkedin.com/in/segun-fasanya-879a943b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- **Microsoft Excel** | Power Query | Pivot Tables | Conditional Formatting
+- **Power BI** | DAX | Data Modelling *(currently learning)*
+- **Dashboard Design** | KPI Development | YoY Analysis
+- **Data Cleaning** | Data Storytelling | Business Problem Framing
+
+---
+
+## 📂 Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| [Technology Sales Dashboard](https://github.com/simplysmarty/Technology-Sales-Analysis) | Excel | 4-year analysis of U.S. technology sales across 4 sub-categories with interactive slicers and YoY indicators |
+
+---
+
+## 📈 What I'm Working On
+
+- 🔨 Building my data analytics portfolio — project by project
+- 📊 Learning at TS Academy
+- ✍️ Posting every step of my journey on LinkedIn and X
+- 🎯 Working toward my first Data Analyst role
+
+---
+
+## 🧠 My Approach to Data
+
+Most people open a dataset and go straight to the charts.
+
+I start with a question.
+
+- What problem is this business actually trying to solve?
+- What is hiding underneath the headline numbers?
+- What decision does this analysis need to support?
+
+That mindset is what separates a report from an insight.
+
+---
+
+## 📬 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/anuoluwapo-fasanya](www.linkedin.com/in/segun-fasanya-879a943b1)
+- 🐦 X (Twitter): [@simplyselected](https://x.com/simplyselected)
+
+---
+
+
+
+*Building in public. Learning out loud. One dataset at a time.* 🚀
