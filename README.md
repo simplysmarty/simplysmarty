@@ -25,6 +25,8 @@ I don't just clean data and build dashboards. I ask the questions that turn numb
 |---|---|---|
 | [Technology Sales Dashboard](https://github.com/simplysmarty/Technology-Sales-Analysis) | Excel | 4-year analysis of U.S. technology sales across 4 sub-categories with interactive slicers and YoY indicators |
 
+| [Why do Employee leave and what should HR be concerned about?](https://github.com/simplysmarty/Employee-Attrition-Risk-Analysis-Dashboard). | Power BI |
+
 ---
 
 ## 📈 What I'm Working On
