@@ -2,7 +2,7 @@
 
 > *"Data doesn't lie — but it does hide. My job is to find what it's hiding."*
 
-I'm an aspiring Data Analyst documenting my journey from zero to job-ready — one dataset at a time.
+I'm a Data Analyst documenting my journey from zero to job-ready — one dataset at a time.
 
 Currently building my portfolio through real-world projects, sharing every step publicly on LinkedIn and X, and learning Power BI at TS Academy.
 
